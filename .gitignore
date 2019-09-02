@@ -350,3 +350,5 @@ MigrationBackup/
 *.tlog
 *.idb
 *.exp
+*.exp
+*.exp
